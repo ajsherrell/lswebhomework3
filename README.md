@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: AJ Sherrell	
 
-I like to:
+I like to: Ride my bicycle and build websites.
 
-I'm learning:
+I'm learning: always javascript, but also creating a website for my mom. 
 
 ```
 
